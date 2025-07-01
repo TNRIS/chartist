@@ -1,3 +1,5 @@
+#Archived, since changes merged into chartist.
+
 # Big welcome by the Chartist Guy
 
 [![NPM version][npm]][npm-url]
